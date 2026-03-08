@@ -31,3 +31,6 @@ Atualmente estou estudando programação e tecnologia com foco em desenvolviment
 🌐 Redes de Computadores  
 🐧 Linux  
 💻 Suporte e Infraestrutura de TI
+
+## 📫 Contato
+Gmail: PedroBarreto@profissional.com.br
