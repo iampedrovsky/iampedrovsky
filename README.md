@@ -33,4 +33,4 @@ Atualmente estou estudando programação e tecnologia com foco em desenvolviment
 💻 Suporte e Infraestrutura de TI
 
 ## 📫 Contato
-Gmail: PedroBarreto@profissional.com.br
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:PedroBarreto@profissional.com.br)
